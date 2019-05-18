@@ -1,0 +1,13 @@
+const SNOW = '#FAFAFA'
+const TRANSLUCENCE = 'A0'
+
+export default {
+  BLACK: 'black',
+  GOLDEN_POPPY: '#FCC200',
+  GREY: 'grey',
+  TEA_GREEN: '#D0F0C0',
+  TEAL: '#008080',
+  TRANSLUCENT_WHITE: `${SNOW}${TRANSLUCENCE}`,
+  WHITE: SNOW,
+  WHITE_SMOKE: '#F5F5F5'
+}
