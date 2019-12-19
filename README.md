@@ -1,4 +1,4 @@
-# Hooligram React Native Android App
+# Hooligram React Native Websocket App
 
 <img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-01.png" alt="Demo1" width="340" />
 <img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-02.png" alt="Demo2" width="340" />
