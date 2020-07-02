@@ -1,16 +1,16 @@
 # Hooligram React Native Websocket App
 
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-01.png" alt="Demo1" width="340" />
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-02.png" alt="Demo2" width="340" />
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-03.png" alt="Demo3" width="340" />
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-04.png" alt="Demo4" width="340" />
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-05.png" alt="Demo5" width="340" />
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-06.png" alt="Demo6" width="340" />
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-07.png" alt="Demo7" width="340" />
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-08.png" alt="Demo8" width="340" />
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-09.png" alt="Demo9" width="340" />
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-10.png" alt="Demo10" width="340" />
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-11.png" alt="Demo11" width="340" />
+<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-01.png" alt="Demo1" width="240" />
+<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-02.png" alt="Demo2" width="240" />
+<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-03.png" alt="Demo3" width="240" />
+<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-04.png" alt="Demo4" width="240" />
+<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-05.png" alt="Demo5" width="240" />
+<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-06.png" alt="Demo6" width="240" />
+<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-07.png" alt="Demo7" width="240" />
+<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-08.png" alt="Demo8" width="240" />
+<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-09.png" alt="Demo9" width="240" />
+<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-10.png" alt="Demo10" width="240" />
+<img src="https://raw.githubusercontent.com/funnyjerry/react-native-websocket-chat-app/master/screenshots/whatsapp-onboarding-11.png" alt="Demo11" width="240" />
 
 
 ## How to run
